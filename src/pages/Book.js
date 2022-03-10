@@ -52,8 +52,8 @@ export default function Book() {
   return (
     <Box
       sx={{
-        backgroundColor: "#eee",
-        py: 10,
+        backgroundColor: "#eeeee",
+        py: 11,
       }}
     >
       <Container>
